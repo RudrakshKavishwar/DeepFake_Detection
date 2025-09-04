@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+opencv-python
+numpy
+librosa
+scikit-learn
+spacy
+transformers
+sentence-transformers
+networkx
+plotly
+neo4j
